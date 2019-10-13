@@ -1,0 +1,63 @@
+body{
+
+    
+    background-image: url("download.png");
+    background-size: cover;
+}
+h1 {
+  color: white;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+form {
+    border: 3px solid white; 
+    padding:10%;
+
+}
+.text {
+	color: blue;
+ 	font-family: selfish font;
+ 	font-style: oblique;
+ 	font-size: 70px;
+  	padding: 3;
+}
+.input {
+	color: black;
+ 	font-family: selfish font;
+ 	font-style: oblique;
+ 	font-size: 50px;
+ 	border: 2px solid red;
+  	padding: 3;
+}
+.submit {
+	background-color: tomato;
+    color: white;
+    font-style: oblique;
+ 	font-size: 30px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border:2px solid red;
+    width: 30%;
+}
+ #msg{
+    width: 50%;
+    height: 100px;
+    padding: 10px;
+    background-color: #d0e2bc;
+    font: 50px;
+    color: tomato;
+  }
+
+  .button {
+  background-color: white; /* Green */
+  border: 2px;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
